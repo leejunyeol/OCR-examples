@@ -1,3 +1,3 @@
 # OCR-examples
-opensource ocr example code
+opensource (Optical character reader, OCR) example code
 
